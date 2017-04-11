@@ -1,0 +1,10 @@
+
+Code python inspiré par plusieurs sources dont :
+
+auteur: Defalt
+"build-man-middle-tool-with-scapy-and-python"
+https://null-byte.wonderhowto.com/how-to/build-man-middle-tool-with-scapy-and-python-0163525/
+
+uteur: V S UBODH 
+"Syn flooding using scapy and prevention using iptables, 2011."
+http://opensourceforu.com/2011/10/syn-flooding-using-scapy-and-prevention-using-iptables/
